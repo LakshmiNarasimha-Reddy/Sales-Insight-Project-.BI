@@ -20,7 +20,7 @@ visual representation to make data driven decisions. So, he hired a team of data
 By using the AIMS grid project management tool, we made sure what are the purpose, stakeholder, end result 
 and success criteria  of our project.
 
-
+![image](https://github.com/LakshmiNarasimha-Reddy/Sales-Insight-Project-.BI/blob/0e7988021b8d1c43d6d12407e73c4a70c7755f2c/AIMS.png)
 
 ## Steps Followed in this project
 
@@ -60,5 +60,19 @@ and success criteria  of our project.
 
 
 ## Final result 
+#### Dashboard KPI Page
+
+-------
+ <img src="https://github.com/NotRamm/Sales-Insight-Dashboard-using-Power-BI/blob/master/Screenshots/Sales%20Insight%20-%20Page%20KPI.png" class="center">
+ 
+ #### Dashboard Performance Insights
+
+-------
+ <img src="https://github.com/NotRamm/Sales-Insight-Dashboard-using-Power-BI/blob/master/Screenshots/Sales%20Insight%20-%20Page%20Performance%20Insights.png" class="center">
+ 
+
+ #### Dashboard Profit Analysis
+ 
+ -----------
 
 #### Dashboard KPI Page
