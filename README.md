@@ -74,5 +74,5 @@ and success criteria  of our project.
  #### Dashboard Profit Analysis
  
  -----------
+<img src="https://github.com/LakshmiNarasimha-Reddy/Sales-Insight-Project-.BI/blob/e7253df858ff0a0bd46556a169e1d7828f79f0cf/PROFIT%20ANALYSIS.png">
 
-#### Dashboard KPI Page
