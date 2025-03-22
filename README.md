@@ -63,7 +63,7 @@ and success criteria  of our project.
 #### Dashboard KPI Page
 
 -------
- <img src="https://github.com/NotRamm/Sales-Insight-Dashboard-using-Power-BI/blob/master/Screenshots/Sales%20Insight%20-%20Page%20KPI.png" class="center">
+ <img src="https://github.com/LakshmiNarasimha-Reddy/Sales-Insight-Project-.BI/blob/fc26edcfa3927359fb2e92f24117f5271b5d413a/KEY%20INSIGHTS.png">
  
  #### Dashboard Performance Insights
 
