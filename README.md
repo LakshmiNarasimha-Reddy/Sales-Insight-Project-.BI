@@ -68,7 +68,7 @@ and success criteria  of our project.
  #### Dashboard Performance Insights
 
 -------
- <img src="https://github.com/NotRamm/Sales-Insight-Dashboard-using-Power-BI/blob/master/Screenshots/Sales%20Insight%20-%20Page%20Performance%20Insights.png" class="center">
+ <img src="https://github.com/LakshmiNarasimha-Reddy/Sales-Insight-Project-.BI/blob/eede9f1c934ee6536eb135797208ab46b4ad933c/PERFORMANCE%20INSIGHTS.png">
  
 
  #### Dashboard Profit Analysis
